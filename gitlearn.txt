@@ -1,2 +1,2 @@
-git is a verion control system.
+git is a verion distributed control system.
 git is a free software.
